@@ -1,4 +1,13 @@
-Hello_world
-===========
+=======================
+==  Learning Python  ==
+=======================
+Topics:
 
-Just a test
+Variable = 1
+
+
+Commands status:
+
+print = 1
+
+
