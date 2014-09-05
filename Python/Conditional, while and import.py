@@ -1,8 +1,8 @@
 #LearningPython
 #Author: Pedro
 #Function: Create a little game
+#Date: 2014/08/29
 #Language: Portuguese
-#Date: 29/08/2014
 
 #Primeiro importar de 'random' um inteiro 'randomico'
 from random import randint
